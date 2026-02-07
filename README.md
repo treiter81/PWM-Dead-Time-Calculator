@@ -6,3 +6,6 @@ Contains PWM Dead Time Calculator with Nomenclature according to
 * Start MATLAB (tested version R2022b)
 * Install the *.mlappinstall
 * Start the App
+
+# Example from App
+![Example of the App](/Example.jpg)
